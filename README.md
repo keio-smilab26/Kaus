@@ -129,11 +129,4 @@ bash train/run_train_draft.sh
 
 ## Citation
 
-```bibtex
-@inproceedings{noguchi2026kaus,
-  title     = {Speculative Decodingに基づく高速な画像キャプション向け自動評価尺度},
-  author    = {Noguchi, Takumi and Wada, Yuiga and Koyama, Shuitsu and Sugiura, Komei},
-  booktitle = {Proceedings of MIRU 2026},
-  year      = {2026},
-}
-```
+Coming soon.
