@@ -131,7 +131,7 @@ bash train/run_train_draft.sh
 
 ```bibtex
 @inproceedings{noguchi2026kaus,
-  title     = {Fast Automatic Evaluation Metric for Image Captioning Based on Speculative Decoding},
+  title     = {Speculative Decodingに基づく高速な画像キャプション向け自動評価尺度},
   author    = {Noguchi, Takumi and Wada, Yuiga and Koyama, Shuitsu and Sugiura, Komei},
   booktitle = {Proceedings of MIRU 2026},
   year      = {2026},
