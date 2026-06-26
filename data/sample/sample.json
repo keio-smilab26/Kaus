@@ -1,0 +1,27 @@
+[
+  {
+    "image": "images/59cf362fd6a5ed162f0e46e580383b53.jpg",
+    "caption": "a large group of people walking around in a city",
+    "score": 1.0
+  },
+  {
+    "image": "images/aa0c40e4f9b9ebb73a59a12da8478a4c.jpg",
+    "caption": "two women playing frisbee",
+    "score": 0.75
+  },
+  {
+    "image": "images/7d7ad0b4d3d62b601638eb375228b7c8.jpg",
+    "caption": "a bottle of milk",
+    "score": 0.55
+  },
+  {
+    "image": "images/eba7d980b7871d1978c215e7e84fbc2e.jpg",
+    "caption": "man wearing a black dress",
+    "score": 0.0
+  },
+  {
+    "image": "images/18857e94718fe68485b31b266ed568f6.jpg",
+    "caption": "man wearing a suit",
+    "score": 0.5
+  }
+]
